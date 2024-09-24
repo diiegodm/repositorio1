@@ -5,3 +5,5 @@ fichero diegoarevalo dvdsvdsv
 =======
 gitk --all&
 >>>>>>> main
+
+ayuda no se que hacer
