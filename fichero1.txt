@@ -1,2 +1,7 @@
+fichero diego_arevalo
 
+<<<<<<< HEAD
 fichero diegoarevalo dvdsvdsv
+=======
+gitk --all&
+>>>>>>> main
