@@ -1,2 +1,3 @@
+fichero diego_arevalo
 
-fichero diegoarevalo
+gitk --all&
